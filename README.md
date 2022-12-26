@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamgood2all
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Pythone,Tableau and MySQL
-- 💞️ I’m looking to collaborate on Data  Science Projects
+- 👀 I’m interested in Python,Django and Data Science
+- 🌱 I’m currently learning Python,Django,Tableau and MySQL
+- 💞️ I’m looking to collaborate on Python Django full stack developement 
 - 📫 How to reach me shivam.goodtoall@gmail.com
 
 <!---
